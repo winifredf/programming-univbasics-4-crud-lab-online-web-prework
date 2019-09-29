@@ -6,7 +6,7 @@ end
 def create_an_array
   family = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
   
-end
+
 
 def add_element_to_end_of_array(array, element)
   array = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
@@ -14,7 +14,7 @@ def add_element_to_end_of_array(array, element)
   
 
   
-end
+
 
 def add_element_to_start_of_array(array, element)
   
