@@ -9,7 +9,7 @@ def create_an_array
 
 
 def add_element_to_end_of_array(array, element)
-  array = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
+  family = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
   family.push("love")
   
 
@@ -17,7 +17,8 @@ def add_element_to_end_of_array(array, element)
 
 
 def add_element_to_start_of_array(array, element)
-  
+  family = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
+  family.
 end
 
 def remove_element_from_end_of_array(array)
