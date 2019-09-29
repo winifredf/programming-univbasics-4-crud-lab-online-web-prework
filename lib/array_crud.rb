@@ -27,7 +27,8 @@ def remove_element_from_end_of_array(array)
   
 
 def remove_element_from_start_of_array(array)
-  
+  family = ["winifred", "Jasmine", "Kaleb", "Mackenzie"]
+  winifred = family.shift
 
 def retrieve_element_from_index(array, index_number)
   
